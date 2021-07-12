@@ -1,0 +1,17 @@
+body {
+    background-color: skyblue;
+}
+
+#container {
+    margin: 0px auto;
+    width: 500px;
+    height: 375px;
+    border: 10px #333 solid;
+    }
+
+#videoElement {
+    background-color: #666;
+    width: 500px;
+    height: 375px;
+   }
+ 
